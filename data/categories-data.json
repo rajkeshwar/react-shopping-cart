@@ -1,0 +1,1912 @@
+[
+  {
+    "label": "MEN",
+    "productId": "PRODUCT-0642363",
+    "children": [
+      [
+        {
+          "label": "Boys Clothing",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-391048"
+        },
+        {
+          "label": "T-Shirts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-9363887"
+        },
+        {
+          "label": "Shirts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-086664"
+        },
+        {
+          "label": "Shorts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-08509"
+        },
+        {
+          "label": "Jeans",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-978639"
+        },
+        {
+          "label": "Trousers",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-56134"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-5263848"
+        },
+        {
+          "label": "Ethnic Wear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-1246678"
+        },
+        {
+          "label": "Track Pants & Pyjamas",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-8353027"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-4677818"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-2363587"
+        }
+      ],
+      [
+        {
+          "label": "Girls Clothing",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-337998"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-7271498"
+        },
+        {
+          "label": "Tops",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-0704976"
+        },
+        {
+          "label": "Tshirts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-934481"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-110863"
+        },
+        {
+          "label": "Ethnic wear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-6492323"
+        },
+        {
+          "label": "Dungarees & Jumpsuits",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-0072267"
+        },
+        {
+          "label": "Skirts & shorts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-939524"
+        },
+        {
+          "label": "Tights & Leggings",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-856478"
+        },
+        {
+          "label": "Jeans, Trousers & Capris",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-625613"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-215035"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-065252"
+        }
+      ],
+      [
+        {
+          "label": "Boys Footwear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-894705"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-939512"
+        },
+        {
+          "label": "Sports Shoes",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-3370135"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-386104"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-2096885"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-219799"
+        },
+        {
+          "label": "Girls Footwear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-08456"
+        },
+        {
+          "label": "Flats",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-747824"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-895067"
+        },
+        {
+          "label": "Heels",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-459256"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-5514717"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-643123"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-335531"
+        }
+      ],
+      [
+        {
+          "label": "Infants",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-4498184"
+        },
+        {
+          "label": "Rompers & Onesies",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-643097"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-457136"
+        },
+        {
+          "label": "Tshirts & Tops",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-910677"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-074108"
+        },
+        {
+          "label": "Bottom wear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-059126"
+        },
+        {
+          "label": "Winter Wear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-45288674"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-9599413"
+        },
+        {
+          "label": "Infants Accessories",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-572187"
+        },
+        {
+          "label": "Kids Accessories",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-089116"
+        },
+        {
+          "label": "Bags & Backpacks",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-496345"
+        },
+        {
+          "label": "Watches",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-7014036"
+        },
+        {
+          "label": "Jewellery & Hair Accessories",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-491584"
+        }
+      ],
+      [
+        {
+          "label": "Brands",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-2129465"
+        },
+        {
+          "label": "H&M",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-253223"
+        },
+        {
+          "label": "United Colors of Benetton",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-7203995"
+        },
+        {
+          "label": "Yk",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-349389"
+        },
+        {
+          "label": "U.S. Polo Assn. Kids",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-634972"
+        },
+        {
+          "label": "GAP Kids",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-124338"
+        },
+        {
+          "label": "Gini & Jony",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-8033995"
+        },
+        {
+          "label": "Peppermint",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-99026"
+        },
+        {
+          "label": "next",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-995716"
+        },
+        {
+          "label": "Allen Solly Junior",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-143712"
+        },
+        {
+          "label": "Nike",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-55414"
+        },
+        {
+          "label": "Pepe Jeans",
+          "parentCategory": "MEN",
+          "parentId": "PRODUCT-0642363",
+          "productId": "PRODUCT-ITEM-956882"
+        }
+      ]
+    ]
+  },
+  {
+    "label": "WOMEN",
+    "productId": "PRODUCT-479909",
+    "children": [
+      [
+        {
+          "label": "Boys Clothing",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-419705"
+        },
+        {
+          "label": "T-Shirts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-4479809"
+        },
+        {
+          "label": "Shirts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-513488204"
+        },
+        {
+          "label": "Shorts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-201851"
+        },
+        {
+          "label": "Jeans",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-766936"
+        },
+        {
+          "label": "Trousers",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-071108"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-9854654"
+        },
+        {
+          "label": "Ethnic Wear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-1856847"
+        },
+        {
+          "label": "Track Pants & Pyjamas",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-65646525"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-1741653"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-35141"
+        }
+      ],
+      [
+        {
+          "label": "Girls Clothing",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-3983577"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-1868991"
+        },
+        {
+          "label": "Tops",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-515779"
+        },
+        {
+          "label": "Tshirts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-758084"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-162254"
+        },
+        {
+          "label": "Ethnic wear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-572996"
+        },
+        {
+          "label": "Dungarees & Jumpsuits",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-0671337"
+        },
+        {
+          "label": "Skirts & shorts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-97545855"
+        },
+        {
+          "label": "Tights & Leggings",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-134208"
+        },
+        {
+          "label": "Jeans, Trousers & Capris",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-4087795"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-448339"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-64095"
+        }
+      ],
+      [
+        {
+          "label": "Boys Footwear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-116432"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-252609"
+        },
+        {
+          "label": "Sports Shoes",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-084702"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-240361"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-176882"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-094995"
+        },
+        {
+          "label": "Girls Footwear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-273239"
+        },
+        {
+          "label": "Flats",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-715531"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-918031"
+        },
+        {
+          "label": "Heels",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-83832"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-0041893"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-9737076"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-513092"
+        }
+      ],
+      [
+        {
+          "label": "Infants",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-78301"
+        },
+        {
+          "label": "Rompers & Onesies",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-929279"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-0055865"
+        },
+        {
+          "label": "Tshirts & Tops",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-980014"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-207619"
+        },
+        {
+          "label": "Bottom wear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-559775"
+        },
+        {
+          "label": "Winter Wear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-511144"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-734988"
+        },
+        {
+          "label": "Infants Accessories",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-1830915"
+        },
+        {
+          "label": "Kids Accessories",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-881769"
+        },
+        {
+          "label": "Bags & Backpacks",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-782471"
+        },
+        {
+          "label": "Watches",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-548967"
+        },
+        {
+          "label": "Jewellery & Hair Accessories",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-3067478"
+        }
+      ],
+      [
+        {
+          "label": "Brands",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-081842"
+        },
+        {
+          "label": "H&M",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-8004227"
+        },
+        {
+          "label": "United Colors of Benetton",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-528545"
+        },
+        {
+          "label": "Yk",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-4549373"
+        },
+        {
+          "label": "U.S. Polo Assn. Kids",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-6194144"
+        },
+        {
+          "label": "GAP Kids",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-304112"
+        },
+        {
+          "label": "Gini & Jony",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-8667175"
+        },
+        {
+          "label": "Peppermint",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-1459564"
+        },
+        {
+          "label": "next",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-2332104"
+        },
+        {
+          "label": "Allen Solly Junior",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-853256"
+        },
+        {
+          "label": "Nike",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-869592"
+        },
+        {
+          "label": "Pepe Jeans",
+          "parentCategory": "WOMEN",
+          "parentId": "PRODUCT-479909",
+          "productId": "PRODUCT-ITEM-953368"
+        }
+      ]
+    ]
+  },
+  {
+    "label": "KIDS",
+    "productId": "PRODUCT-125839",
+    "children": [
+      [
+        {
+          "label": "Boys Clothing",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-556507"
+        },
+        {
+          "label": "T-Shirts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-8609476"
+        },
+        {
+          "label": "Shirts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-044285"
+        },
+        {
+          "label": "Shorts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-711073"
+        },
+        {
+          "label": "Jeans",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-804961"
+        },
+        {
+          "label": "Trousers",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-101079"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-526631"
+        },
+        {
+          "label": "Ethnic Wear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-918522"
+        },
+        {
+          "label": "Track Pants & Pyjamas",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-221112"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-29078"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-9985787"
+        }
+      ],
+      [
+        {
+          "label": "Girls Clothing",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-3799645"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-7078165"
+        },
+        {
+          "label": "Tops",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-9660767"
+        },
+        {
+          "label": "Tshirts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-5004386"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-434649"
+        },
+        {
+          "label": "Ethnic wear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-654863"
+        },
+        {
+          "label": "Dungarees & Jumpsuits",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-389978"
+        },
+        {
+          "label": "Skirts & shorts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-15513"
+        },
+        {
+          "label": "Tights & Leggings",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-865489"
+        },
+        {
+          "label": "Jeans, Trousers & Capris",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-254056"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-959341"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-5656627"
+        }
+      ],
+      [
+        {
+          "label": "Boys Footwear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-927473"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-74888941"
+        },
+        {
+          "label": "Sports Shoes",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-632452"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-5714806"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-140615"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-532998"
+        },
+        {
+          "label": "Girls Footwear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-314255"
+        },
+        {
+          "label": "Flats",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-646237"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-835315"
+        },
+        {
+          "label": "Heels",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-065823"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-518728"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-044237"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-251988"
+        }
+      ],
+      [
+        {
+          "label": "Infants",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-925492"
+        },
+        {
+          "label": "Rompers & Onesies",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-014637"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-31815"
+        },
+        {
+          "label": "Tshirts & Tops",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-22496"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-948838"
+        },
+        {
+          "label": "Bottom wear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-310389"
+        },
+        {
+          "label": "Winter Wear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-189043"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-368534"
+        },
+        {
+          "label": "Infants Accessories",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-984909"
+        },
+        {
+          "label": "Kids Accessories",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-9577209"
+        },
+        {
+          "label": "Bags & Backpacks",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-8034468"
+        },
+        {
+          "label": "Watches",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-062772"
+        },
+        {
+          "label": "Jewellery & Hair Accessories",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-332302"
+        }
+      ],
+      [
+        {
+          "label": "Brands",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-0615957"
+        },
+        {
+          "label": "H&M",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-76202"
+        },
+        {
+          "label": "United Colors of Benetton",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-3370639"
+        },
+        {
+          "label": "Yk",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-659767"
+        },
+        {
+          "label": "U.S. Polo Assn. Kids",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-782431"
+        },
+        {
+          "label": "GAP Kids",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-4219377"
+        },
+        {
+          "label": "Gini & Jony",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-0733836"
+        },
+        {
+          "label": "Peppermint",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-0138477"
+        },
+        {
+          "label": "next",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-656092"
+        },
+        {
+          "label": "Allen Solly Junior",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-206994"
+        },
+        {
+          "label": "Nike",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-5452487"
+        },
+        {
+          "label": "Pepe Jeans",
+          "parentCategory": "KIDS",
+          "parentId": "PRODUCT-125839",
+          "productId": "PRODUCT-ITEM-9382596"
+        }
+      ]
+    ]
+  },
+  {
+    "label": "HOME & LIVING",
+    "productId": "PRODUCT-14022356",
+    "children": [
+      [
+        {
+          "label": "Boys Clothing",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-3440702"
+        },
+        {
+          "label": "T-Shirts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-089316"
+        },
+        {
+          "label": "Shirts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-17783133"
+        },
+        {
+          "label": "Shorts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-748098"
+        },
+        {
+          "label": "Jeans",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-51692"
+        },
+        {
+          "label": "Trousers",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-5065025"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-3487404"
+        },
+        {
+          "label": "Ethnic Wear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-360738"
+        },
+        {
+          "label": "Track Pants & Pyjamas",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-122145"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-6630635"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-17774"
+        }
+      ],
+      [
+        {
+          "label": "Girls Clothing",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-82795304"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-311333"
+        },
+        {
+          "label": "Tops",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-071152"
+        },
+        {
+          "label": "Tshirts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-461942"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-365954"
+        },
+        {
+          "label": "Ethnic wear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-227915"
+        },
+        {
+          "label": "Dungarees & Jumpsuits",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-848399"
+        },
+        {
+          "label": "Skirts & shorts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-9818006"
+        },
+        {
+          "label": "Tights & Leggings",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-3550463"
+        },
+        {
+          "label": "Jeans, Trousers & Capris",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-891784"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-926937"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-4572023"
+        }
+      ],
+      [
+        {
+          "label": "Boys Footwear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-8426554"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-6399015"
+        },
+        {
+          "label": "Sports Shoes",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-11928"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-752189"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-8883263"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-405161"
+        },
+        {
+          "label": "Girls Footwear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-388388"
+        },
+        {
+          "label": "Flats",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-1781052"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-097498"
+        },
+        {
+          "label": "Heels",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-44433345"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-337324"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-9727876"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-647965"
+        }
+      ],
+      [
+        {
+          "label": "Infants",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-9589225"
+        },
+        {
+          "label": "Rompers & Onesies",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-134902"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-685081"
+        },
+        {
+          "label": "Tshirts & Tops",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-83476"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-5936316"
+        },
+        {
+          "label": "Bottom wear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-4682128"
+        },
+        {
+          "label": "Winter Wear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-135778"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-1517205"
+        },
+        {
+          "label": "Infants Accessories",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-8556256"
+        },
+        {
+          "label": "Kids Accessories",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-800794"
+        },
+        {
+          "label": "Bags & Backpacks",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-996514"
+        },
+        {
+          "label": "Watches",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-656901"
+        },
+        {
+          "label": "Jewellery & Hair Accessories",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-901055"
+        }
+      ],
+      [
+        {
+          "label": "Brands",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-035708"
+        },
+        {
+          "label": "H&M",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-013554"
+        },
+        {
+          "label": "United Colors of Benetton",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-042161"
+        },
+        {
+          "label": "Yk",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-248465"
+        },
+        {
+          "label": "U.S. Polo Assn. Kids",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-773141"
+        },
+        {
+          "label": "GAP Kids",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-038231"
+        },
+        {
+          "label": "Gini & Jony",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-5898074"
+        },
+        {
+          "label": "Peppermint",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-210186"
+        },
+        {
+          "label": "next",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-127987"
+        },
+        {
+          "label": "Allen Solly Junior",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-8875804"
+        },
+        {
+          "label": "Nike",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-98172"
+        },
+        {
+          "label": "Pepe Jeans",
+          "parentCategory": "HOME & LIVING",
+          "parentId": "PRODUCT-14022356",
+          "productId": "PRODUCT-ITEM-606949"
+        }
+      ]
+    ]
+  },
+  {
+    "label": "ESSENTIALS",
+    "productId": "PRODUCT-439152",
+    "children": [
+      [
+        {
+          "label": "Boys Clothing",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-712235"
+        },
+        {
+          "label": "T-Shirts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-429862"
+        },
+        {
+          "label": "Shirts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-7138125"
+        },
+        {
+          "label": "Shorts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-346594"
+        },
+        {
+          "label": "Jeans",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-483736"
+        },
+        {
+          "label": "Trousers",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-732343"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-0331545"
+        },
+        {
+          "label": "Ethnic Wear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-8563847"
+        },
+        {
+          "label": "Track Pants & Pyjamas",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-912611"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-5707392"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-223158"
+        }
+      ],
+      [
+        {
+          "label": "Girls Clothing",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-5049357"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-048463"
+        },
+        {
+          "label": "Tops",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-6268047"
+        },
+        {
+          "label": "Tshirts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-3205725"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-6392865"
+        },
+        {
+          "label": "Ethnic wear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-909607"
+        },
+        {
+          "label": "Dungarees & Jumpsuits",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-345535"
+        },
+        {
+          "label": "Skirts & shorts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-4587613"
+        },
+        {
+          "label": "Tights & Leggings",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-463626"
+        },
+        {
+          "label": "Jeans, Trousers & Capris",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-827776"
+        },
+        {
+          "label": "Jacket, Sweater & Sweatshirts",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-014189"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-195937"
+        }
+      ],
+      [
+        {
+          "label": "Boys Footwear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-71778"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-6813753"
+        },
+        {
+          "label": "Sports Shoes",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-4596303"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-370427"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-693732"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-407784"
+        },
+        {
+          "label": "Girls Footwear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-05466"
+        },
+        {
+          "label": "Flats",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-011426"
+        },
+        {
+          "label": "Casual Shoes",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-818299"
+        },
+        {
+          "label": "Heels",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-7076249"
+        },
+        {
+          "label": "Flip flops",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-232666"
+        },
+        {
+          "label": "Sandals",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-922368"
+        },
+        {
+          "label": "School Shoes",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-8986267"
+        }
+      ],
+      [
+        {
+          "label": "Infants",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-84458"
+        },
+        {
+          "label": "Rompers & Onesies",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-764512"
+        },
+        {
+          "label": "Clothing Sets",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-86628"
+        },
+        {
+          "label": "Tshirts & Tops",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-0405327"
+        },
+        {
+          "label": "Dresses",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-70481"
+        },
+        {
+          "label": "Bottom wear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-597086"
+        },
+        {
+          "label": "Winter Wear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-558766"
+        },
+        {
+          "label": "Innerwear & Sleepwear",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-468301"
+        },
+        {
+          "label": "Infants Accessories",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-0532968"
+        },
+        {
+          "label": "Kids Accessories",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-605255"
+        },
+        {
+          "label": "Bags & Backpacks",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-528233"
+        },
+        {
+          "label": "Watches",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-224138"
+        },
+        {
+          "label": "Jewellery & Hair Accessories",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-6316557"
+        }
+      ],
+      [
+        {
+          "label": "Brands",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-733258"
+        },
+        {
+          "label": "H&M",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-8486106"
+        },
+        {
+          "label": "United Colors of Benetton",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-2749593"
+        },
+        {
+          "label": "Yk",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-038065"
+        },
+        {
+          "label": "U.S. Polo Assn. Kids",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-526413"
+        },
+        {
+          "label": "GAP Kids",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-213156"
+        },
+        {
+          "label": "Gini & Jony",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-198353"
+        },
+        {
+          "label": "Peppermint",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-2839493"
+        },
+        {
+          "label": "next",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-2548551"
+        },
+        {
+          "label": "Allen Solly Junior",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-312581"
+        },
+        {
+          "label": "Nike",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-553104"
+        },
+        {
+          "label": "Pepe Jeans",
+          "parentCategory": "ESSENTIALS",
+          "parentId": "PRODUCT-439152",
+          "productId": "PRODUCT-ITEM-871423"
+        }
+      ]
+    ]
+  }
+]
