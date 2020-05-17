@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://rajkeshwar.github.io/react-shopping-cart/static/css/main.bff4a5a8.chunk.css",
-    "main.js": "https://rajkeshwar.github.io/react-shopping-cart/static/js/main.1aa69e24.chunk.js",
-    "main.js.map": "https://rajkeshwar.github.io/react-shopping-cart/static/js/main.1aa69e24.chunk.js.map",
+    "main.js": "https://rajkeshwar.github.io/react-shopping-cart/static/js/main.110abb92.chunk.js",
+    "main.js.map": "https://rajkeshwar.github.io/react-shopping-cart/static/js/main.110abb92.chunk.js.map",
     "runtime-main.js": "https://rajkeshwar.github.io/react-shopping-cart/static/js/runtime-main.7f9a059e.js",
     "runtime-main.js.map": "https://rajkeshwar.github.io/react-shopping-cart/static/js/runtime-main.7f9a059e.js.map",
-    "static/js/2.0720f361.chunk.js": "https://rajkeshwar.github.io/react-shopping-cart/static/js/2.0720f361.chunk.js",
-    "static/js/2.0720f361.chunk.js.map": "https://rajkeshwar.github.io/react-shopping-cart/static/js/2.0720f361.chunk.js.map",
+    "static/js/2.834cbb10.chunk.js": "https://rajkeshwar.github.io/react-shopping-cart/static/js/2.834cbb10.chunk.js",
+    "static/js/2.834cbb10.chunk.js.map": "https://rajkeshwar.github.io/react-shopping-cart/static/js/2.834cbb10.chunk.js.map",
     "index.html": "https://rajkeshwar.github.io/react-shopping-cart/index.html",
-    "precache-manifest.f7f5b44e60fd4384f154d5097043ef28.js": "https://rajkeshwar.github.io/react-shopping-cart/precache-manifest.f7f5b44e60fd4384f154d5097043ef28.js",
+    "precache-manifest.0ba33da606aed29187375490be5b1ed7.js": "https://rajkeshwar.github.io/react-shopping-cart/precache-manifest.0ba33da606aed29187375490be5b1ed7.js",
     "service-worker.js": "https://rajkeshwar.github.io/react-shopping-cart/service-worker.js",
     "static/css/main.bff4a5a8.chunk.css.map": "https://rajkeshwar.github.io/react-shopping-cart/static/css/main.bff4a5a8.chunk.css.map",
-    "static/js/2.0720f361.chunk.js.LICENSE.txt": "https://rajkeshwar.github.io/react-shopping-cart/static/js/2.0720f361.chunk.js.LICENSE.txt"
+    "static/js/2.834cbb10.chunk.js.LICENSE.txt": "https://rajkeshwar.github.io/react-shopping-cart/static/js/2.834cbb10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f9a059e.js",
-    "static/js/2.0720f361.chunk.js",
+    "static/js/2.834cbb10.chunk.js",
     "static/css/main.bff4a5a8.chunk.css",
-    "static/js/main.1aa69e24.chunk.js"
+    "static/js/main.110abb92.chunk.js"
   ]
 }
